@@ -1,0 +1,10 @@
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\obj\Debug\KoLSharp.csprojResolveAssemblyReference.cache
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\obj\Debug\KoLSharp.Form1.resources
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\obj\Debug\KoLSharp.Properties.Resources.resources
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\obj\Debug\KoLSharp.csproj.GenerateResource.cache
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\obj\Debug\KoLSharp.csproj.CoreCompileInputs.cache
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\bin\Debug\KoLSharp.exe.config
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\bin\Debug\KoLSharp.exe
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\bin\Debug\KoLSharp.pdb
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\obj\Debug\KoLSharp.exe
+C:\Users\Colton\source\repos\KoLSharp\KoLSharp\obj\Debug\KoLSharp.pdb
